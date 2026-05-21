@@ -16,6 +16,18 @@
 <div align="center"> <div align="center"> <img src="https://skillicons.dev/icons?i=apple,figma,supabase,swift,kotlin,github,vscode,html,css,js" /> </div>
 </div>
   
+## 🕹️ My Contribution Arcade
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rosin355/Rosin355/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rosin355/Rosin355/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Rosin355/Rosin355/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
 ---
 
 ## 🌌 About Me
