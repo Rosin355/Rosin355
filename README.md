@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Rosin355
+# 👋 Hey, I'm Romesh CTO @digitalyogin
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=760&lines=iOS+Developer+%E2%9C%A8;SwiftUI+%7C+AI+%7C+Creative+Coding;Designing+digital+experiences+with+soul;Code%2C+vision+and+future-facing+products" alt="Typing SVG" />
 
@@ -34,7 +34,7 @@
 
 I build digital products where **code, design, AI and imagination** meet.
 
-My work moves between **iOS development**, **SwiftUI**, **AI-powered tools**, **web platforms**, **creative coding**, and user experiences that feel clear, elegant and alive.
+My work moves between **iOS development**, **SwiftUI**, **AI-powered tools**, **web platforms**, **creative coding**, and user experiences that feel clear, elegant and alive. I am CTO at digitalyogin a small software house based in Pauda, Italy. For more info check our website: www.digitalyogin.com
 
 <div align="left">
 
